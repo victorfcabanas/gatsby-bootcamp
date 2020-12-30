@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Gatsby Bootcamp',
-    author: 'Mehmet N. Yarar',
+    author: 'Andrew Mead',
   },
   plugins: [
     'gatsby-plugin-sass',
